@@ -1,3 +1,6 @@
 .zig-cache/
 zig-out/
+zig-pkg/
 *.o
+.cortexkit/
+./tools/__py_cache__
